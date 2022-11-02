@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I will be posting a few sentences about myself here soon. ⚡
+
 <!--
 **coded-bear/coded-bear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
