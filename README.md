@@ -15,6 +15,10 @@
 - 🎱 If you want to go out with me somewhere, take me to billard.
 - 🍻 I'm also happy to go out for a beer.
 
+<!-- ### Technologies:
+
+images -->
+
 <!--
 **coded-bear/coded-bear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
