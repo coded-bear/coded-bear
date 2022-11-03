@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<i><strong>Life's too short to stand in one place.</strong></i>
+<i><strong>Life is too short to be in the same place all the time.</strong></i>
 
 ### A few facts about me:
 - 😳 I'm a shy and introvert person.
