@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+<i><strong>Life's too short to stand in one place.</strong></i>
 
 ### A few facts about me:
 - 😳 I'm a shy and introvert person.
