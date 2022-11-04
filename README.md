@@ -3,6 +3,7 @@
 <i><strong>Life is too short to be in the same place all the time.</strong></i>
 
 ### A few points about me:
+
 - 😳 I'm a shy and introvert person.
 - 👨‍💻 I spend a lot of my free time programming and learning about new developments.
 - ⏰ I'm interested in time management skills.
