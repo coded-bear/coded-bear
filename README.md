@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<i><strong>Life is too short to be in the same place all the time.</strong></i>
+***Life is too short to be in the same place all the time.***
 
 ### A few points about me:
 
