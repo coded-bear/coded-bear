@@ -16,9 +16,11 @@
 - 🎱 If you want to go out with me somewhere, take me to billard.
 - 🍻 I'm also happy to go out for a beer.
 
-### Technologies:
+### Technologies I use:
 
 ![HTML5](./icons/html5.svg "HTML5") &nbsp; ![CSS3](./icons/css3.svg "CSS3") &nbsp; ![SASS](./icons/sass.svg "SASS") &nbsp; ![jQuery](./icons/jquery.svg "jQuery") &nbsp; ![JavaScript](./icons/javascript.svg "JavaScript") &nbsp; ![TypeScript](./icons/typescript.svg "TypeScript") &nbsp; ![React](./icons/react.svg "React") &nbsp; ![Redux](./icons/redux.svg "Redux") &nbsp; ![Next.js](./icons/nextjs.svg "Next.js") &nbsp; ![Gatsby.js](./icons/gatsby.svg "Gatsby.js") &nbsp; ![Webpack](./icons/webpack.svg "Webpack") &nbsp; ![Node.js](./icons/nodejs.svg "Node.js") &nbsp; ![Nest.js](./icons/nestjs.svg "Nest.js") &nbsp; ![Docker](./icons/docker.svg "Docker")
+
+<!-- More will follow soon ⚡ -->
 
 <!--
 **coded-bear/coded-bear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
