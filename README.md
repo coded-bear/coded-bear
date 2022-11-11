@@ -4,6 +4,7 @@
 
 ### A few points about me:
 
+- 🔥 People say I'm surprisingly productive.
 - 👨‍💻 I spend a lot of my free time programming and learning about new developments.
 - ⏰ I'm interested in time management skills.
 - ⛓️ Blockchain is the right direction. Maybe one day I'll get more technically interested in it.
