@@ -13,9 +13,7 @@
 - 🎮 I like video games, but I prefer to spend my free time in other ways.
 - 🏎️ I'm passionate about new automotive solutions.
 - 🤽‍♂️ I need to devote more time to physical activities.
-- 💸 I would like to stop socialist governments.
-- 🎱 If you want to go out with me somewhere, take me to billard.
-- 🍻 I'm also happy to go out for a beer.
+- 🍻 If you want to go out somewhere with me, take me out for a beer.
 
 ### Technologies I use:
 
