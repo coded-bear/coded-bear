@@ -1,7 +1,5 @@
 <!-- ### Hi there 👋 -->
 
-**_Life is too short to be in the same place all the time._**
-
 ### A few points about me:
 
 - 🔥 People say I'm surprisingly productive.
