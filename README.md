@@ -5,8 +5,7 @@
 - 🔥 People say I'm surprisingly productive.
 - 👨‍💻 I spend a lot of my free time programming and learning about new developments.
 - ⏰ I'm interested in time management skills.
-- ⛓️ Blockchain is the right direction. Maybe one day I'll get more technically interested in it.
-- 🏦 Investment is one of the activities I want to be involved with in the future.
+- ⛓️ Blockchain is the right direction.
 - 😳 I'm a shy and introvert person.
 - 🎮 I like video games, but I prefer to spend my free time in other ways.
 - 🏎️ I'm passionate about new automotive solutions.
